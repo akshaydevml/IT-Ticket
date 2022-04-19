@@ -1,5 +1,5 @@
 from imports import *
-from model import *
+from model import top_4_model, top_40_model
 
 st.header('Daimler Auto-classification of IT tickets')
 st.markdown('(created by the DTS-KREATE team)')
