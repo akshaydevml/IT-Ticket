@@ -1,4 +1,4 @@
 streamlit~=1.5.1
 pandas~=1.2.4
 numpy~=1.20.1
-U click==8 
+click==8 
